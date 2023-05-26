@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## See this project on Vercel
 
-airbnb-clone-chi-orcin.vercel.app
+[airbnb-clone-chi-orcin.vercel.app](https://airbnb-clone-chi-orcin.vercel.app/)
