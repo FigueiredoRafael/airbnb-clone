@@ -5,5 +5,5 @@ import styles from "./page.module.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
-  return <div className='text-rose-500'>Hello Airbnb!</div>;
+  return <div className='text-rose-500'>Loading...</div>;
 }
